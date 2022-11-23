@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Julia Rudenko, Junior Front-end Developer.Completed HTML / CSS, JavaScript course, created two individual projects and one team project on the position of Team Lead.
+                                                         Hi, I’m Julia Rudenko.
+
+- 👋 , Junior Front-end Developer.Completed HTML / CSS, JavaScript course, created two individual projects and one team project on the position of Team Lead.
 - 👀 I’m interested in develop, improve your skills and create cool projects.
 - 🌱 I’m currently learning React.
 - 💞️ I will be glad to participate in projects, open to cooperation with the employer.
